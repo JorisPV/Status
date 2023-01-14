@@ -6,16 +6,12 @@ sites:
     url: https://arragon.hydeos.fr
   - name: NeoliaMC
     url: https://neoliamc.fr
-  - name: OneCube - Site web
-    url: https://www.onecube.com/
   - name: Funcraft - Site web
     url: https://www.funcraft.net/fr
   - name: Forum - Funcraft
     url: https://community.funcraft.net/
   - name: Forum - Pactify
     url: https://community.ascentia.fr/
-  - name: Forum - OneCube
-    url: https://www.onecube.com/forum
 
 status-website:
   baseUrl: /Status
