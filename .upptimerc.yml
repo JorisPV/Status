@@ -1,31 +1,24 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Acenox
+repo: Status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Arragon
+    url: https://arragon.hydeos.fr
+  - name: NeoliaMC
+    url: https://neoliamc.fr
+  - name: OneCube - Site web
+    url: https://onecube.com
+  - name: OneCube - Site web
+    url: https://onecube.com
+  - name: Funcraft - Site web
+    url: https://www.funcraft.net/fr
+  - name: Forum - Funcraft
+    url: https://community.funcraft.net/
+  - name: Forum - Pactify
+    url: https://community.ascentia.fr/
+  - name: Forum - OneCube
+    url: https://www.onecube.com/forum
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  baseUrl: /Status
+  name: Status
