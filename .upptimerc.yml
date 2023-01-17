@@ -12,8 +12,6 @@ sites:
     url: https://community.funcraft.net/
   - name: Forum - Pactify
     url: https://community.ascentia.fr/
-  - name: Test-Ping
-    url: 45.81.80.103
 
 status-website:
   baseUrl: /Status
