@@ -13,7 +13,6 @@ sites:
   - name: Forum - Pactify
     url: https://community.ascentia.fr/
   - name: Test-Ping
-    check: "tcp-ping"
     url: 45.81.80.103
 
 status-website:
