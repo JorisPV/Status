@@ -2,6 +2,8 @@ owner: Acenox
 repo: Status
 
 sites:
+  - name: Hydeos
+    url: https://hydeos.fr
   - name: Arragon
     url: https://arragon.hydeos.fr
   - name: NeoliaMC
