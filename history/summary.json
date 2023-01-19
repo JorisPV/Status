@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 381,
-    "timeWeek": 502,
-    "timeMonth": 502,
-    "timeYear": 502,
+    "time": 512,
+    "timeDay": 605,
+    "timeWeek": 512,
+    "timeMonth": 512,
+    "timeYear": 512,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/neoliamc.fr.ico",
     "slug": "neolia-mc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "93.82%",
+    "uptimeDay": "73.87%",
+    "uptimeWeek": "93.82%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "93.82%",
     "time": 881,
-    "timeDay": 677,
+    "timeDay": 0,
     "timeWeek": 881,
     "timeMonth": 881,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-01-18": 0
+      "2023-01-19": 61,
+      "2023-01-18": 315
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 577,
-    "timeWeek": 820,
-    "timeMonth": 820,
-    "timeYear": 820,
+    "time": 831,
+    "timeDay": 943,
+    "timeWeek": 831,
+    "timeMonth": 831,
+    "timeYear": 831,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 504,
-    "timeWeek": 651,
-    "timeMonth": 651,
-    "timeYear": 651,
+    "time": 655,
+    "timeDay": 698,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 590,
-    "timeWeek": 809,
-    "timeMonth": 809,
-    "timeYear": 809,
+    "time": 815,
+    "timeDay": 874,
+    "timeWeek": 815,
+    "timeMonth": 815,
+    "timeYear": 815,
     "dailyMinutesDown": {}
   }
 ]
