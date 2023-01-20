@@ -10,8 +10,14 @@ sites:
     url: https://www.funcraft.net/fr
   - name: Forum - Funcraft
     url: https://community.funcraft.net/
-  - name: Forum - Pactify
+  - name: Pactify
+    url: https://www.pactify.fr/
+  - name: Forum - Ascentia
     url: https://community.ascentia.fr/
+  - name: Account - Ascentia
+    url: https://account.ascentia.fr/
+  - name: Boutique - Ascentia
+    url: https://store.ascentia.fr/
 
 status-website:
   baseUrl: /Status
