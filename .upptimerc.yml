@@ -4,6 +4,8 @@ repo: Status
 sites:
   - name: Hydeos
     url: https://hydeos.fr
+  - name: Panel - Hydeos
+    url: https://pterodactyl.hydeos.fr
   - name: Arragon
     url: https://arragon.hydeos.fr
   - name: Funcraft - Site web
@@ -18,7 +20,7 @@ sites:
     url: https://account.ascentia.fr/
   - name: Boutique - Ascentia
     url: https://store.ascentia.fr/
-
+    
 status-website:
   baseUrl: /Status
   name: Status
