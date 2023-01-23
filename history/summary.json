@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.hydeos.fr.ico",
     "slug": "panel-hydeos",
     "status": "down",
-    "uptime": "33.19%",
-    "uptimeDay": "33.19%",
-    "uptimeWeek": "33.19%",
-    "uptimeMonth": "33.19%",
-    "uptimeYear": "33.19%",
+    "uptime": "16.61%",
+    "uptimeDay": "16.61%",
+    "uptimeWeek": "16.61%",
+    "uptimeMonth": "16.61%",
+    "uptimeYear": "16.61%",
     "time": 751,
     "timeDay": 751,
     "timeWeek": 751,
     "timeMonth": 751,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2023-01-23": 58,
+      "2023-01-23": 217,
       "2023-01-22": 48
     }
   },
@@ -115,9 +115,9 @@
     "url": "https://community.ascentia.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/community.ascentia.fr.ico",
     "slug": "forum-ascentia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,7 +126,9 @@
     "timeWeek": 824,
     "timeMonth": 824,
     "timeYear": 824,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   },
   {
     "name": "Account - Ascentia",
