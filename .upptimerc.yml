@@ -4,26 +4,37 @@ repo: Status
 sites:
   - name: Hydeos
     url: https://hydeos.fr
+    maxResponseTime: 5000
   - name: Panel - Hydeos
     url: https://pterodactyl.hydeos.fr
+    maxResponseTime: 5000
   - name: Arragon
     url: https://arragon.hydeos.fr
+    maxResponseTime: 5000
   - name: Funcraft - Site web
     url: https://www.funcraft.net/fr
+    maxResponseTime: 5000
   - name: Forum - Funcraft
     url: https://community.funcraft.net/
+    maxResponseTime: 5000
   - name: Pactify
     url: https://www.pactify.fr/
+    maxResponseTime: 5000
   - name: Forum - Ascentia
     url: https://community.ascentia.fr/
+    maxResponseTime: 5000
   - name: Account - Ascentia
     url: https://account.ascentia.fr/
+    maxResponseTime: 5000
   - name: Boutique - Ascentia
     url: https://store.ascentia.fr/
+    maxResponseTime: 5000
   - name: Joris - Perso
     url: https://joris-parmentier.fr
+    maxResponseTime: 5000
   - name: Joris - Acenox
     url: https://acenox.fr
+    maxResponseTime: 5000
     
 status-website:
   baseUrl: /Status
