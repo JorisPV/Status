@@ -39,4 +39,4 @@ sites:
 status-website:
   baseUrl: /Status
   name: Status
-  theme: ocean
+  theme: night
