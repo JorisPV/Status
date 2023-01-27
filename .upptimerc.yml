@@ -20,6 +20,10 @@ sites:
     url: https://account.ascentia.fr/
   - name: Boutique - Ascentia
     url: https://store.ascentia.fr/
+  - name: Joris - Perso
+    url: https://joris-parmentier.fr
+  - name: Joris - Acenox
+    url: https://acenox.fr
     
 status-website:
   baseUrl: /Status
