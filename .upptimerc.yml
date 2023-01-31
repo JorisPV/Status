@@ -35,9 +35,6 @@ sites:
   - name: Joris - Acenox
     url: https://acenox.fr
     maxResponseTime: 5000
-  - name: OneCube
-    url: https://onecube.fr
-    maxResponseTime: 5000
     
 status-website:
   baseUrl: /Status
