@@ -36,7 +36,7 @@ sites:
     url: https://acenox.fr
     maxResponseTime: 5000
   - name: OneCube
-    url: https://onecube.com
+    url: https://onecube.fr
     maxResponseTime: 5000
     
 status-website:
