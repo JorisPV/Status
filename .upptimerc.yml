@@ -20,6 +20,9 @@ sites:
   - name: Pactify
     url: https://www.pactify.fr/
     maxResponseTime: 5000
+  - name: AZ-Launcher
+    url: https://az-launcher.nz/
+    maxResponseTime: 5000
   - name: Forum - Ascentia
     url: https://community.ascentia.fr/
     maxResponseTime: 5000
