@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.hydeos.fr.ico",
     "slug": "panel-hydeos",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.89%",
     "time": 641,
     "timeDay": 678,
     "timeWeek": 636,
@@ -61,10 +61,10 @@
     "url": "https://www.funcraft.net/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.funcraft.net.ico",
     "slug": "funcraft-site-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
@@ -72,16 +72,18 @@
     "timeWeek": 830,
     "timeMonth": 825,
     "timeYear": 837,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-26": 1
+    }
   },
   {
     "name": "Forum - Funcraft",
     "url": "https://community.funcraft.net/",
     "icon": "https://icons.duckduckgo.com/ip3/community.funcraft.net.ico",
     "slug": "forum-funcraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +92,9 @@
     "timeWeek": 648,
     "timeMonth": 651,
     "timeYear": 650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-26": 0
+    }
   },
   {
     "name": "Pactify",
