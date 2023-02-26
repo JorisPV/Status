@@ -61,19 +61,19 @@
     "url": "https://www.funcraft.net/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.funcraft.net.ico",
     "slug": "funcraft-site-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 875,
-    "timeWeek": 830,
-    "timeMonth": 825,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 833,
+    "timeDay": 752,
+    "timeWeek": 805,
+    "timeMonth": 821,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2023-02-26": 1
+      "2023-02-26": 21
     }
   },
   {
@@ -81,19 +81,19 @@
     "url": "https://community.funcraft.net/",
     "icon": "https://icons.duckduckgo.com/ip3/community.funcraft.net.ico",
     "slug": "forum-funcraft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 740,
-    "timeWeek": 648,
-    "timeMonth": 651,
-    "timeYear": 650,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 648,
+    "timeDay": 627,
+    "timeWeek": 631,
+    "timeMonth": 647,
+    "timeYear": 648,
     "dailyMinutesDown": {
-      "2023-02-26": 0
+      "2023-02-26": 20
     }
   },
   {
