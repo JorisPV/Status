@@ -1,7 +1,7 @@
 url: https://www.funcraft.net/fr
-status: down
+status: degraded
 code: 500
-responseTime: 651
-lastUpdated: 2023-04-02T10:35:08.739Z
+responseTime: 5596
+lastUpdated: 2023-04-02T10:58:38.580Z
 startTime: Sat Jan 14 2023 19:32:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
