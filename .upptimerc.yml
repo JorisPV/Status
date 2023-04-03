@@ -69,9 +69,9 @@ i18n:
   degradedPerformance: "🟨 Un service est dégradé"
   completeOutage: "🟥 Un service est DOWN"
   partialOutage: "🟧 Un service est dégradé"
-  activeIncidents: Liste des incidents
+  activeIncidents: "Liste des incidents"
   incidentReport: "Incident #$NUMBER →"
-  activeIncidentSummary: Ouvert le $DATE
+  activeIncidentSummary: "Ouvert le $DATE"
   incidentTitle: "Détails de l'incident numéro $NUMBER"
   incidentDetails: "Détails de l'incident"
   incidentFixed: "Corrigé"
@@ -90,12 +90,11 @@ i18n:
   averageResponseTimeTitle: "Temps de réponse moyen"
   sevelDayResponseTime: "Temps de réponse moyen sous 7 jours"
   responseTimeMs: "Temps de réponse en ms"
-  loading: Chargement
-  navGitHub: GitHub
-  footer: Page par [Upptime](https://upptime.js.org)
+  loading: "Chargement"
+  footer: "Page par [Upptime](https://upptime.js.org)"
   errorHome: "Retour en arrière"
-  duration24H: 24h
-  duration7D: 7j
-  duration30D: 30j
-  duration1Y: 365j
-  durationAll: toujours
+  duration24H: "24h"
+  duration7D: "7j"
+  duration30D: "30j"
+  duration1Y: "365j"
+  durationAll: "toujours"
