@@ -59,7 +59,6 @@ i18n:
   responseTimeWeek: "7 jours - Temps de réponse"
   responseTimeMonth: "30 jours - Temps de réponse"
   responseTimeYear: "365 jours - Temps de réponse"
-  uptime: "Depuis toujours"
   uptimeDay: "Dernières 24 heures"
   uptimeWeek: "Dernière semaine"
   uptimeMonth: "Dernier mois"
