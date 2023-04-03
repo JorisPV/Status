@@ -70,7 +70,6 @@ i18n:
   completeOutage: "🟥 Un service est DOWN"
   partialOutage: "🟧 Un service est dégradé"
   activeIncidents: Liste des incidents
-  allSystemsOperational: "Aucun problème n'est détecté"
   incidentReport: "Incident #$NUMBER →"
   activeIncidentSummary: Ouvert le $DATE
   incidentTitle: "Détails de l'incident numéro $NUMBER"
