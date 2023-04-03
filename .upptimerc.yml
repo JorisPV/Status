@@ -81,7 +81,7 @@ i18n:
   incidentViewOnGitHub: "Plus d'infos sur Github"
   incidentCommentSummary: "Commentaire → $DATE par $AUTHOR
   incidentBack: "← Retour en arrière"
-  pastIncidents: "Incidents précédents"
+  pastIncidents: Incidents précédents
   pastIncidentsResolved: "Résolu en $MINUTES minutes avec $POSTS posts"
   liveStatus: "Status"
   overallUptime: "% d'uptime: $UPTIME"
