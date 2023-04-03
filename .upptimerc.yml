@@ -92,7 +92,7 @@ i18n:
   averageResponseTime: "Temps de réponse moyen: $TIMEms"
   averageResponseTimeTitle: "Temps de réponse moyen"
   sevelDayResponseTime: "Temps de réponse moyen sous 7 jours"
-  responseTimeMs: "Temps de réponse en ms
+  responseTimeMs: "Temps de réponse en ms"
   loading: Chargement
   navGitHub: GitHub
   footer: Page par [Upptime](https://upptime.js.org)
