@@ -43,3 +43,77 @@ status-website:
   baseUrl: /Status
   name: Status
   theme: night
+  
+i18n:
+  url: "URL"
+  status: "Status"
+  history: "Historique"
+  responseTime: "Temps de réponse"
+  uptime: "Uptime"
+  up: "🟩 Up"
+  degraded: "🟨 Dégradé"
+  down: "🟥 Down"
+  responseTimeGraphAlt: "Temps de réponse"
+  ms: "ms"
+  responseTime: "Temps de réponse"
+  responseTimeDay: "24 heures - Temps de réponse"
+  responseTimeWeek: "7 jours - Temps de réponse"
+  responseTimeMonth: "30 jours - Temps de réponse"
+  responseTimeYear: "365 jours - Temps de réponse"
+  uptime: "Depuis toujours"
+  uptimeDay: "Dernières 24 heures"
+  uptimeWeek: "Dernière semaine"
+  uptimeMonth: "Dernier mois"
+  uptimeYear: "Dernière année"
+  liveStatus: "Status"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Aucun problème n'est détecté"
+  degradedPerformance: "🟨 Un service est dégradé"
+  completeOutage: "🟥 Un service est DOWN"
+  partialOutage: "🟧 Un service est dégradé"
+  activeIncidents: Liste des incidents
+  allSystemsOperational: "Aucun problème n'est détecté"
+  incidentReport: "Incident #$NUMBER →"
+  activeIncidentSummary: Ouvert le $DATE
+  incidentTitle: "Détails de l'incident numéro $NUMBER"
+  incidentDetails: "Détails de l'incident"
+  incidentFixed: "Corrigé"
+  incidentOngoing: "En cours"
+  incidentOpenedAt: "Ouvert le"
+  incidentClosedAt: "Clôturé le"
+  incidentViewOnGitHub: "Plus d'infos sur Github"
+  incidentCommentSummary: "Commentaire → $DATE par $AUTHOR
+  incidentBack: "← Retour en arrière"
+  pastIncidents: "Incidents précédents"
+  pastIncidentsResolved: "Résolu en $MINUTES minutes avec $POSTS posts"
+  liveStatus: "Status"
+  overallUptime: "% d'uptime: $UPTIME"
+  overallUptimeTitle: "% d'uptime"
+  averageResponseTime: "Temps de réponse moyen: $TIMEms"
+  averageResponseTimeTitle: "Temps de réponse moyen"
+  sevelDayResponseTime: "Temps de réponse moyen sous 7 jours"
+  responseTimeMs: "Temps de réponse en ms
+  loading: Chargement
+  navGitHub: GitHub
+  footer: Page par [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: "Retour en arrière"
+  duration24H: 24h
+  duration7D: 7j
+  duration30D: 30j
+  duration1Y: 365j
+  durationAll: toujours
