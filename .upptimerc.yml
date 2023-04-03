@@ -41,9 +41,6 @@ sites:
     url: https://acenox.fr
     maxResponseTime: 5000
     
-notifications:
-  - type: telegram
-    
 status-website:
   baseUrl: /Status
   name: Status
