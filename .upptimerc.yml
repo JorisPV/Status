@@ -83,7 +83,6 @@ i18n:
   incidentBack: "← Retour en arrière"
   pastIncidents: "Incidents précédents"
   pastIncidentsResolved: "Résolu en $MINUTES minutes avec $POSTS posts"
-  liveStatus: "Status"
   overallUptime: "% d'uptime: $UPTIME"
   overallUptimeTitle: "% d'uptime"
   averageResponseTime: "Temps de réponse moyen: $TIMEms"
