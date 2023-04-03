@@ -1,6 +1,6 @@
 owner: JorisPV
 repo: Status
-runner: "[self-hosted, linux, ARM64]"
+runner: "[self-hosted, Linux, X64]"
 user-agent: jorispv
 
 sites:
