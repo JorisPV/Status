@@ -40,9 +40,6 @@ sites:
   - name: Joris - Acenox
     url: https://acenox.fr
     maxResponseTime: 5000
-  - name: test2
-    url: https://fjklglmmlzpekr.fr
-    maxResponseTime: 5000
     
 status-website:
   baseUrl: /Status
