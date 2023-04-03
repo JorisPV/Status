@@ -40,15 +40,14 @@ sites:
   - name: Joris - Acenox
     url: https://acenox.fr
     maxResponseTime: 5000
+  - name: Test
+    url: https://fggglkrorluhro.fr
+    maxResponseTime: 5000
     
 status-website:
   baseUrl: /Status
   name: Status
   theme: night
-  
-notifications:
-  - name: telegram
-  - name: discord
   
 i18n:
   url: "URL"
