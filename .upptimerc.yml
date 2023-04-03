@@ -1,5 +1,7 @@
 owner: JorisPV
 repo: Status
+runner: "[self-hosted, linux, ARM64]"
+user-agent: jorispv
 
 sites:
   - name: Hydeos
@@ -65,10 +67,10 @@ i18n:
   uptimeYear: "Dernière année"
   liveStatus: "Status"
   liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 Aucun problème n'est détecté"
-  degradedPerformance: "🟨 Un service est dégradé"
-  completeOutage: "🟥 Un service est DOWN"
-  partialOutage: "🟧 Un service est dégradé"
+  allSystemsOperational: "Aucun problème n'est détecté"
+  degradedPerformance: "Un service est dégradé"
+  completeOutage: "Un service est DOWN"
+  partialOutage: "Un service est dégradé"
   activeIncidents: "Liste des incidents"
   incidentReport: "Incident #$NUMBER →"
   activeIncidentSummary: "Ouvert le $DATE"
@@ -83,14 +85,14 @@ i18n:
   incidentBack: "← Retour en arrière"
   pastIncidents: "Incidents précédents"
   pastIncidentsResolved: "Résolu en $MINUTES minutes avec $POSTS posts"
-  overallUptime: "% d'uptime: $UPTIME"
-  overallUptimeTitle: "% d'uptime"
-  averageResponseTime: "Temps de réponse moyen: $TIMEms"
-  averageResponseTimeTitle: "Temps de réponse moyen"
-  sevelDayResponseTime: "Temps de réponse moyen sous 7 jours"
+  overallUptime: "SLA: $UPTIME"
+  overallUptimeTitle: "SLA"
+  averageResponseTime: "Temps de réponse: $TIMEms"
+  averageResponseTimeTitle: "Temps de réponse"
+  sevelDayResponseTime: "Temps de réponse sous 7 jours"
   responseTimeMs: "Temps de réponse en ms"
   loading: "Chargement"
-  footer: "Page par [Upptime](https://upptime.js.org)"
+  footer: "Site utilisant [Upptime](https://upptime.js.org)"
   errorHome: "Retour en arrière"
   duration24H: "24h"
   duration7D: "7j"
