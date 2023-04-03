@@ -49,6 +49,10 @@ status-website:
   name: Status
   theme: night
   
+notifications:
+  - name: telegram
+  - name: discord
+  
 i18n:
   url: "URL"
   status: "Status"
