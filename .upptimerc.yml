@@ -91,7 +91,7 @@ i18n:
   averageResponseTimeTitle: "Temps de réponse"
   sevelDayResponseTime: "Temps de réponse sous 7 jours"
   responseTimeMs: "Temps de réponse en ms"
-  loading: "Chargement"
+  loading: "Chargement en cours..."
   footer: "Site utilisant [Upptime](https://upptime.js.org)"
   errorHome: "Retour en arrière"
   duration24H: "24h"
