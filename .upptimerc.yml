@@ -6,40 +6,40 @@ user-agent: jorispv
 sites:
   - name: Hydeos
     url: https://hydeos.fr
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Panel - Hydeos
     url: https://pterodactyl.hydeos.fr
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Arragon
     url: https://arragon.hydeos.fr
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Funcraft - Site web
     url: https://www.funcraft.net/fr
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Forum - Funcraft
     url: https://community.funcraft.net/
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Pactify
     url: https://www.pactify.fr/
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: AZ-Launcher
     url: https://az-launcher.nz/
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Forum - Ascentia
     url: https://community.ascentia.fr/
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Account - Ascentia
     url: https://account.ascentia.fr/
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Boutique - Ascentia
     url: https://store.ascentia.fr/
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Joris - Perso
     url: https://joris-parmentier.fr
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Joris - Acenox
     url: https://acenox.fr
-    maxResponseTime: 5000
+    maxResponseTime: 500
     
 status-website:
   baseUrl: /Status
