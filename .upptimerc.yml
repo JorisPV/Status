@@ -101,10 +101,10 @@ i18n:
   durationAll: "toujours"
 
 workflowSchedule:
-  graphs: "*0 1 * * *"
+  graphs: "0 1 * * *"
   responseTime: "0 2 * * *"
   staticSite: "0 1 * * *"
-  summary: "*0 1 * * *"
+  summary: "0 1 * * *"
   updateTemplate: "*/30 * * * *"
-  updates: "*0 1 * * *"
+  updates: "0 1 * * *"
   uptime: "*/5 * * * *"
