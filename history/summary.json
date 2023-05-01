@@ -13,7 +13,7 @@
     "time": 210,
     "timeDay": 60,
     "timeWeek": 64,
-    "timeMonth": 84,
+    "timeMonth": 80,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 342,
     "timeDay": 203,
     "timeWeek": 248,
-    "timeMonth": 240,
+    "timeMonth": 237,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2023-01-23": 561
@@ -51,7 +51,7 @@
     "time": 203,
     "timeDay": 69,
     "timeWeek": 87,
-    "timeMonth": 84,
+    "timeMonth": 81,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 392,
     "timeDay": 50,
     "timeWeek": 49,
-    "timeMonth": 215,
+    "timeMonth": 210,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2023-04-02": 150,
@@ -83,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.funcraft.net.ico",
     "slug": "forum-funcraft",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 248,
     "timeDay": 37,
     "timeWeek": 66,
-    "timeMonth": 76,
+    "timeMonth": 72,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2023-03-28": 32,
@@ -113,7 +113,7 @@
     "time": 340,
     "timeDay": 80,
     "timeWeek": 1790,
-    "timeMonth": 236,
+    "timeMonth": 233,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2023-04-02": 96
@@ -133,7 +133,7 @@
     "time": 388,
     "timeDay": 220,
     "timeWeek": 223,
-    "timeMonth": 263,
+    "timeMonth": 256,
     "timeYear": 388,
     "dailyMinutesDown": {}
   },
@@ -151,7 +151,7 @@
     "time": 429,
     "timeDay": 142,
     "timeWeek": 1884,
-    "timeMonth": 306,
+    "timeMonth": 302,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2023-04-02": 532,
@@ -174,7 +174,7 @@
     "time": 353,
     "timeDay": 106,
     "timeWeek": 1826,
-    "timeMonth": 255,
+    "timeMonth": 252,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2023-04-02": 95
@@ -194,7 +194,7 @@
     "time": 287,
     "timeDay": 67,
     "timeWeek": 383,
-    "timeMonth": 180,
+    "timeMonth": 177,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2023-04-02": 94
@@ -214,7 +214,7 @@
     "time": 244,
     "timeDay": 81,
     "timeWeek": 66,
-    "timeMonth": 94,
+    "timeMonth": 86,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2023-04-18": 21,
@@ -239,7 +239,7 @@
     "time": 311,
     "timeDay": 115,
     "timeWeek": 77,
-    "timeMonth": 85,
+    "timeMonth": 80,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2023-04-30": 32,
