@@ -1,7 +1,7 @@
 url: https://account.ascentia.fr/
-status: degraded
+status: up
 code: 200
-responseTime: 10288
-lastUpdated: 2023-08-28T07:26:28.967Z
+responseTime: 79
+lastUpdated: 2023-08-28T07:48:05.712Z
 startTime: 2023-01-20T23:36:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
