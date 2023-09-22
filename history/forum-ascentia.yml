@@ -1,7 +1,7 @@
 url: https://community.ascentia.fr/
-status: up
+status: degraded
 code: 200
-responseTime: 269
-lastUpdated: 2023-09-22T02:13:09.036Z
+responseTime: 1421
+lastUpdated: 2023-09-22T16:00:15.969Z
 startTime: 2023-01-20T23:36:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
