@@ -1,7 +1,7 @@
 url: https://community.funcraft.net/
-status: down
+status: degraded
 code: 403
-responseTime: 93
-lastUpdated: 2023-09-22T02:13:07.062Z
+responseTime: 655
+lastUpdated: 2023-09-22T15:09:50.381Z
 startTime: 2023-01-14T19:32:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
