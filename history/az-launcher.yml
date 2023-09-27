@@ -1,7 +1,7 @@
 url: https://az-launcher.nz/
-status: up
+status: degraded
 code: 200
-responseTime: 72
-lastUpdated: 2023-09-27T02:13:48.968Z
+responseTime: 1705
+lastUpdated: 2023-09-27T18:41:19.419Z
 startTime: 2023-02-05T00:34:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
