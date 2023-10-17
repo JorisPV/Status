@@ -1,7 +1,7 @@
 url: https://account.ascentia.fr/
-status: degraded
+status: down
 code: 403
-responseTime: 5318
-lastUpdated: 2023-10-17T05:41:00.794Z
+responseTime: 268
+lastUpdated: 2023-10-17T05:52:46.812Z
 startTime: 2023-01-20T23:36:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
