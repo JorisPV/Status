@@ -1,7 +1,7 @@
 url: https://www.pactify.fr/
-status: up
-code: 200
-responseTime: 335
-lastUpdated: 2023-12-15T02:21:38.562Z
+status: degraded
+code: 522
+responseTime: 15436
+lastUpdated: 2023-12-15T19:35:31.972Z
 startTime: 2023-01-20T23:36:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
