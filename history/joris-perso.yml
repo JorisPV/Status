@@ -1,7 +1,7 @@
 url: https://joris-parmentier.fr
-status: up
-code: 200
-responseTime: 243
-lastUpdated: 2024-01-01T02:25:44.164Z
+status: down
+code: 502
+responseTime: 102
+lastUpdated: 2024-01-01T16:36:13.911Z
 startTime: 2023-01-27T17:01:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
