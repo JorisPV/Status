@@ -13,12 +13,6 @@ sites:
   - name: Arragon
     url: https://arragon.hydeos.fr
     maxResponseTime: 500
-  - name: Funcraft - Site web
-    url: https://www.funcraft.net/fr
-    maxResponseTime: 500
-  - name: Forum - Funcraft
-    url: https://community.funcraft.net/
-    maxResponseTime: 500
   - name: Pactify
     url: https://www.pactify.fr/
     maxResponseTime: 500
