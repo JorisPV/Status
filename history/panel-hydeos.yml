@@ -1,7 +1,7 @@
 url: https://pterodactyl.hydeos.fr
-status: up
-code: 200
-responseTime: 349
-lastUpdated: 2024-02-13T12:51:19.514Z
+status: degraded
+code: 502
+responseTime: 3368
+lastUpdated: 2024-02-13T13:10:19.368Z
 startTime: 2023-01-22T22:19:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
