@@ -1,7 +1,7 @@
 url: https://hydeos.fr
-status: degraded
-code: 502
-responseTime: 1120
-lastUpdated: 2024-02-19T21:56:54.067Z
+status: down
+code: 521
+responseTime: 91
+lastUpdated: 2024-02-19T22:16:18.340Z
 startTime: 2023-01-19T22:05:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
