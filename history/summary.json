@@ -40,7 +40,7 @@
     "timeDay": 244,
     "timeWeek": 315,
     "timeMonth": 434,
-    "timeYear": 394,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2024-02-20": 125,
       "2024-02-19": 118,
@@ -69,7 +69,7 @@
     "timeDay": 66,
     "timeWeek": 92,
     "timeMonth": 87,
-    "timeYear": 146,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2024-02-20": 48,
       "2024-02-19": 63,
@@ -95,7 +95,7 @@
     "timeDay": 85,
     "timeWeek": 129,
     "timeMonth": 99,
-    "timeYear": 301,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2024-01-16": 15,
       "2023-12-16": 217,
@@ -114,9 +114,9 @@
     "slug": "az-launcher",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 491,
     "timeDay": 4366,
@@ -124,7 +124,6 @@
     "timeMonth": 892,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2024-02-21": 11,
       "2023-12-16": 75,
       "2023-11-12": 60,
       "2023-10-01": 48,
@@ -170,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.ascentia.fr.ico",
     "slug": "account-ascentia",
     "status": "up",
-    "uptime": "71.99%",
+    "uptime": "72.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "50.59%",
     "uptimeMonth": "88.63%",
@@ -315,7 +314,7 @@
     "timeDay": 100,
     "timeWeek": 104,
     "timeMonth": 87,
-    "timeYear": 258,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2023-12-16": 215,
       "2023-12-15": 203,
@@ -341,7 +340,7 @@
     "timeDay": 61,
     "timeWeek": 58,
     "timeMonth": 69,
-    "timeYear": 126,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2024-01-21": 20,
       "2024-01-06": 25,
@@ -375,7 +374,7 @@
     "timeDay": 51,
     "timeWeek": 98,
     "timeMonth": 69,
-    "timeYear": 140,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2024-01-31": 20,
       "2023-12-14": 37,
