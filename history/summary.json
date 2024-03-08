@@ -14,7 +14,7 @@
     "timeDay": 99,
     "timeWeek": 79,
     "timeMonth": 120,
-    "timeYear": 142,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2024-03-08": 6,
       "2024-03-07": 741,
@@ -42,7 +42,7 @@
     "timeDay": 226,
     "timeWeek": 237,
     "timeMonth": 436,
-    "timeYear": 385,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2024-03-08": 6,
       "2024-03-07": 740,
@@ -73,7 +73,7 @@
     "timeDay": 62,
     "timeWeek": 76,
     "timeMonth": 84,
-    "timeYear": 136,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2024-03-08": 6,
       "2024-03-07": 738,
@@ -128,7 +128,7 @@
     "timeDay": 313,
     "timeWeek": 198,
     "timeMonth": 909,
-    "timeYear": 466,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2023-12-16": 75,
       "2023-11-12": 60,
@@ -156,7 +156,7 @@
     "timeDay": 129,
     "timeWeek": 143,
     "timeMonth": 165,
-    "timeYear": 371,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2023-12-16": 216,
       "2023-12-15": 204,
@@ -174,7 +174,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.ascentia.fr.ico",
     "slug": "account-ascentia",
     "status": "up",
-    "uptime": "73.02%",
+    "uptime": "73.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.63%",
@@ -319,7 +319,7 @@
     "timeDay": 79,
     "timeWeek": 105,
     "timeMonth": 96,
-    "timeYear": 247,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2023-12-16": 215,
       "2023-12-15": 203,
@@ -345,7 +345,7 @@
     "timeDay": 121,
     "timeWeek": 79,
     "timeMonth": 62,
-    "timeYear": 113,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2024-01-21": 20,
       "2024-01-06": 25,
@@ -379,7 +379,7 @@
     "timeDay": 68,
     "timeWeek": 125,
     "timeMonth": 83,
-    "timeYear": 108,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2024-02-25": 32,
       "2024-02-22": 33,
