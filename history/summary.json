@@ -176,18 +176,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.ascentia.fr.ico",
     "slug": "account-ascentia",
     "status": "down",
-    "uptime": "67.24%",
+    "uptime": "67.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.91%",
+    "uptimeYear": "53.83%",
     "time": 308,
     "timeDay": 115,
     "timeWeek": 117,
     "timeMonth": 809,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-06-17": 1216,
+      "2024-06-18": 234,
+      "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -417,8 +418,7 @@
       "2024-01-02": 20,
       "2023-12-22": 17,
       "2023-12-13": 21,
-      "2023-12-03": 18,
-      "2023-06-19": 21
+      "2023-12-03": 18
     }
   },
   {
