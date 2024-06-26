@@ -184,18 +184,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.ascentia.fr.ico",
     "slug": "account-ascentia",
     "status": "down",
-    "uptime": "66.22%",
+    "uptime": "66.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.74%",
+    "uptimeYear": "51.64%",
     "time": 312,
     "timeDay": 107,
     "timeWeek": 347,
     "timeMonth": 806,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2024-06-25": 1132,
+      "2024-06-26": 233,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -416,7 +417,7 @@
     "uptimeYear": "99.94%",
     "time": 77,
     "timeDay": 247,
-    "timeWeek": 74,
+    "timeWeek": 88,
     "timeMonth": 79,
     "timeYear": 78,
     "dailyMinutesDown": {
@@ -443,12 +444,12 @@
     "slug": "joris-acenox",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "98.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.58%",
     "time": 70,
-    "timeDay": 44,
+    "timeDay": 47,
     "timeWeek": 59,
     "timeMonth": 58,
     "timeYear": 71,
@@ -469,8 +470,7 @@
       "2023-11-03": 18,
       "2023-10-22": 15,
       "2023-09-24": 26,
-      "2023-08-06": 17,
-      "2023-06-27": 26
+      "2023-08-06": 17
     }
   }
 ]
