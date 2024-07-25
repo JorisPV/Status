@@ -37,6 +37,9 @@ sites:
   - name: Joris - Acenox
     url: https://acenox.fr
     maxResponseTime: 500
+
+assignees:
+  - JorisPV
     
 status-website:
   baseUrl: /Status
