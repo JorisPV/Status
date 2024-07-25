@@ -25,8 +25,6 @@ sites:
   - name: Account - Ascentia
     url: https://account.ascentia.fr/
     maxResponseTime: 500
-    expectedStatusCodes:
-    - 403
   - name: Boutique - Ascentia
     url: https://store.ascentia.fr/
     maxResponseTime: 500
