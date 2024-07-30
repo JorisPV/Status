@@ -37,7 +37,7 @@ sites:
   - name: Joris - Acenox
     url: https://acenox.fr
     maxResponseTime: 500
-  - name: Test notification
+  - name: Test notificationz
     url: https://acenoxeuhz.fr
     maxResponseTime: 500
 
