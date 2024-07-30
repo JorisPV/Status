@@ -99,6 +99,7 @@ i18n:
   duration30D: "30j"
   duration1Y: "365j"
   durationAll: "toujours"
+  locale: fr-FR
 
 workflowSchedule:
   graphs: "0 1 * * *"
