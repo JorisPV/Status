@@ -533,18 +533,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/acenoxeuhz.fr.ico",
     "slug": "test-notificationz",
     "status": "down",
-    "uptime": "2.67%",
-    "uptimeDay": "2.67%",
-    "uptimeWeek": "2.67%",
-    "uptimeMonth": "2.67%",
-    "uptimeYear": "2.67%",
+    "uptime": "0.40%",
+    "uptimeDay": "0.40%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-30": 0
+      "2024-07-30": 1
     }
   }
 ]
