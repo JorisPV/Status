@@ -101,12 +101,6 @@ i18n:
   durationAll: "toujours"
   locale: fr-FR
 
-commitMessages:
-  readmeContent: ":pencil: Mise à jour du Read.me"
-  summaryJson: ":card_file_box: Mise à jour du status"
-  statusChange: "$EMOJI $SITE_NAME est $STATUS ($RESPONSE_CODE en $RESPONSE_TIME ms)"
-  graphsUpdate: ":bento: Mise à jour des graphiques"
-
 workflowSchedule:
   graphs: "*/30 * * * *"
   responseTime: "*/30 * * * *"
