@@ -7,8 +7,8 @@ sites:
   - name: Hydeos
     url: https://hydeos.fr
     maxResponseTime: 500
-  - name: Panel - Hydeos
-    url: https://pterodactyl.hydeos.fr
+  - name: Mysql - Hydeos
+    url: https://phpmyadmin.hydeos.fr
     maxResponseTime: 500
   - name: Arragon
     url: https://arragon.hydeos.fr
