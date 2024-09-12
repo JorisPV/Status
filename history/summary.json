@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.hydeos.fr.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "95.59%",
+    "uptime": "95.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.89%",
-    "uptimeYear": "95.59%",
+    "uptimeYear": "95.60%",
     "time": 159,
     "timeDay": 148,
     "timeWeek": 156,
@@ -147,7 +147,7 @@
     "uptime": "95.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "20.97%",
+    "uptimeMonth": "20.88%",
     "uptimeYear": "93.34%",
     "time": 353,
     "timeDay": 185,
@@ -155,7 +155,8 @@
     "timeMonth": 188,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-09-12": 1413,
+      "2024-09-13": 10,
+      "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -460,8 +461,7 @@
     "dailyMinutesDown": {
       "2024-04-22": 76,
       "2023-12-16": 215,
-      "2023-12-15": 203,
-      "2023-09-14": 17
+      "2023-12-15": 203
     }
   },
   {
@@ -471,8 +471,8 @@
     "slug": "joris-perso",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "66.54%",
-    "uptimeWeek": "9.51%",
+    "uptimeDay": "69.12%",
+    "uptimeWeek": "9.87%",
     "uptimeMonth": "77.88%",
     "uptimeYear": "97.99%",
     "time": 94,
@@ -522,7 +522,7 @@
     "status": "up",
     "uptime": "96.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "65.48%",
+    "uptimeWeek": "65.85%",
     "uptimeMonth": "46.32%",
     "uptimeYear": "94.46%",
     "time": 85,
