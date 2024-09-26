@@ -1,7 +1,7 @@
 url: https://arragon.hydeos.fr
-status: up
+status: degraded
 code: 200
-responseTime: 122
-lastUpdated: 2024-09-26T06:15:28.401Z
+responseTime: 1628
+lastUpdated: 2024-09-26T06:40:23.391Z
 startTime: 2023-01-14T19:31:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
