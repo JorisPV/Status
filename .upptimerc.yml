@@ -6,37 +6,37 @@ user-agent: jorispv
 sites:
   - name: Hydeos
     url: https://hydeos.fr
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: Mysql - Hydeos
     url: https://phpmyadmin.hydeos.fr
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: Arragon
     url: https://arragon.hydeos.fr
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: Grafana
     url: https://grafana.hydeos.fr
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: Pactify
     url: https://www.pactify.fr/
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: AZ-Launcher
     url: https://az-launcher.nz/
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: Forum - Ascentia
     url: https://community.ascentia.fr/
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: Account - Ascentia
     url: https://account.ascentia.fr/
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: Boutique - Ascentia
     url: https://store.ascentia.fr/
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: Joris - Perso
     url: https://joris-parmentier.fr
-    maxResponseTime: 500
+    maxResponseTime: 600
   - name: Joris - Acenox
     url: https://acenox.fr
-    maxResponseTime: 500
+    maxResponseTime: 600
 
 assignees:
   - JorisPV
@@ -102,10 +102,10 @@ i18n:
   locale: fr-FR
 
 workflowSchedule:
-  graphs: "*/30 * * * *"
-  responseTime: "*/30 * * * *"
+  graphs: "*/60 * * * *"
+  responseTime: "*/5 * * * *"
   staticSite: "0 1 * * *"
-  summary: "*/30 * * * *"
-  updateTemplate: "*/30 * * * *"
-  updates: "0 1 * * *"
+  summary: "*/60 * * * *"
+  updateTemplate: "*/60 * * * *"
+  updates: "0 3 * * *"
   uptime: "*/5 * * * *"
