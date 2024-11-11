@@ -1,7 +1,7 @@
 url: https://grafana.hydeos.fr
-status: up
+status: degraded
 code: 200
-responseTime: 233
-lastUpdated: 2024-11-11T07:45:17.358Z
+responseTime: 2259
+lastUpdated: 2024-11-11T07:54:58.017Z
 startTime: 2024-07-25T19:13:50.830Z
 generator: Upptime <https://github.com/upptime/upptime>
