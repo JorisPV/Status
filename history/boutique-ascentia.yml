@@ -1,7 +1,7 @@
 url: https://store.ascentia.fr/
-status: up
+status: degraded
 code: 200
-responseTime: 126
-lastUpdated: 2024-12-07T16:33:16.945Z
+responseTime: 6589
+lastUpdated: 2024-12-07T16:57:41.007Z
 startTime: 2023-01-20T23:36:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
