@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.74%",
     "time": 141,
-    "timeDay": 154,
-    "timeWeek": 158,
+    "timeDay": 156,
+    "timeWeek": 159,
     "timeMonth": 155,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.34%",
     "time": 170,
-    "timeDay": 194,
+    "timeDay": 192,
     "timeWeek": 188,
     "timeMonth": 179,
     "timeYear": 170,
@@ -69,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.74%",
     "time": 142,
-    "timeDay": 154,
+    "timeDay": 156,
     "timeWeek": 160,
     "timeMonth": 153,
     "timeYear": 142,
@@ -100,11 +100,11 @@
     "status": "up",
     "uptime": "69.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "57.87%",
-    "uptimeMonth": "14.70%",
+    "uptimeWeek": "58.46%",
+    "uptimeMonth": "14.83%",
     "uptimeYear": "69.91%",
     "time": 186,
-    "timeDay": 202,
+    "timeDay": 200,
     "timeWeek": 205,
     "timeMonth": 193,
     "timeYear": 186,
@@ -173,7 +173,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.45%",
     "time": 159,
-    "timeDay": 153,
+    "timeDay": 156,
     "timeWeek": 158,
     "timeMonth": 153,
     "timeYear": 158,
@@ -185,8 +185,7 @@
       "2024-10-03": 83,
       "2024-09-26": 128,
       "2024-07-26": 24,
-      "2024-01-16": 15,
-      "2023-12-16": 217
+      "2024-01-16": 15
     }
   },
   {
@@ -200,9 +199,9 @@
     "uptimeWeek": "96.98%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "89.37%",
-    "time": 336,
-    "timeDay": 327,
-    "timeWeek": 340,
+    "time": 335,
+    "timeDay": 321,
+    "timeWeek": 339,
     "timeMonth": 338,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -254,8 +253,7 @@
       "2024-08-19": 87,
       "2024-06-20": 18,
       "2024-06-11": 36,
-      "2024-05-06": 47,
-      "2023-12-16": 75
+      "2024-05-06": 47
     }
   },
   {
@@ -270,14 +268,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 191,
-    "timeDay": 192,
+    "timeDay": 187,
     "timeWeek": 191,
     "timeMonth": 189,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2024-10-06": 16,
-      "2024-06-20": 18,
-      "2023-12-16": 216
+      "2024-06-20": 18
     }
   },
   {
@@ -286,18 +283,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.ascentia.fr.ico",
     "slug": "account-ascentia",
     "status": "down",
-    "uptime": "61.04%",
+    "uptime": "61.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "50.06%",
     "time": 120,
-    "timeDay": 107,
+    "timeDay": 105,
     "timeWeek": 103,
     "timeMonth": 99,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-12-14": 1391,
+      "2024-12-15": 11,
+      "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
@@ -480,8 +478,7 @@
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
-      "2023-12-17": 1440,
-      "2023-12-16": 1440
+      "2023-12-17": 1440
     }
   },
   {
@@ -496,7 +493,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.68%",
     "time": 175,
-    "timeDay": 169,
+    "timeDay": 166,
     "timeWeek": 160,
     "timeMonth": 156,
     "timeYear": 177,
@@ -505,8 +502,7 @@
       "2024-10-06": 189,
       "2024-10-04": 922,
       "2024-10-03": 42,
-      "2024-04-22": 76,
-      "2023-12-16": 215
+      "2024-04-22": 76
     }
   },
   {
@@ -519,14 +515,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.02%",
+    "uptimeYear": "78.01%",
     "time": 100,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2024-12-14": 1392,
+      "2024-12-15": 12,
+      "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
@@ -647,7 +644,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "94.49%",
     "time": 122,
-    "timeDay": 144,
+    "timeDay": 145,
     "timeWeek": 139,
     "timeMonth": 135,
     "timeYear": 123,
