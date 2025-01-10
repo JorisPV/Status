@@ -25,17 +25,8 @@ sites:
   - name: Forum - Ascentia
     url: https://community.ascentia.fr/
     maxResponseTime: 600
-  - name: Account - Ascentia
-    url: https://account.ascentia.fr/
-    maxResponseTime: 600
   - name: Boutique - Ascentia
     url: https://store.ascentia.fr/
-    maxResponseTime: 600
-  - name: Joris - Perso
-    url: https://joris-parmentier.fr
-    maxResponseTime: 600
-  - name: Joris - Acenox
-    url: https://acenox.fr
     maxResponseTime: 600
 
 assignees:
