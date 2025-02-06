@@ -94,7 +94,7 @@ i18n:
 
 workflowSchedule:
   graphs: "*/60 * * * *"
-  responseTime: "*/15 * * * *"
+  responseTime: "*/20 * * * *"
   staticSite: "0 1 * * *"
   summary: "*/60 * * * *"
   updateTemplate: "*/60 * * * *"
