@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hydeos.fr.ico",
     "slug": "hydeos",
     "status": "down",
-    "uptime": "83.30%",
+    "uptime": "83.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.66%",
+    "uptimeYear": "60.65%",
     "time": 145,
     "timeDay": 131,
     "timeWeek": 156,
     "timeMonth": 149,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-06-04": 1387,
+      "2025-06-05": 8,
+      "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
@@ -165,8 +166,7 @@
       "2024-07-22": 622,
       "2024-06-25": 373,
       "2024-06-20": 37,
-      "2024-06-06": 686,
-      "2024-06-05": 207
+      "2024-06-06": 686
     }
   },
   {
@@ -183,7 +183,7 @@
     "time": 184,
     "timeDay": 180,
     "timeWeek": 202,
-    "timeMonth": 193,
+    "timeMonth": 192,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-02-07": 26,
@@ -269,8 +269,7 @@
       "2024-07-22": 619,
       "2024-06-25": 370,
       "2024-06-20": 18,
-      "2024-06-06": 686,
-      "2024-06-05": 204
+      "2024-06-06": 686
     }
   },
   {
@@ -388,18 +387,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pactify.fr.ico",
     "slug": "pactify",
     "status": "up",
-    "uptime": "93.58%",
+    "uptime": "93.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.89%",
+    "uptimeYear": "84.88%",
     "time": 151,
     "timeDay": 172,
     "timeWeek": 190,
     "timeMonth": 182,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-06-04": 1392,
+      "2025-06-05": 12,
+      "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
@@ -478,7 +478,7 @@
     "time": 324,
     "timeDay": 359,
     "timeWeek": 405,
-    "timeMonth": 383,
+    "timeMonth": 382,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2025-02-07": 26,
@@ -630,14 +630,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.04%",
+    "uptimeYear": "79.03%",
     "time": 154,
     "timeDay": 113,
     "timeWeek": 126,
     "timeMonth": 125,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-06-04": 1394,
+      "2025-06-05": 15,
+      "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
